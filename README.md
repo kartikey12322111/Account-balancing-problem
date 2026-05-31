@@ -6,7 +6,7 @@ When a group of people spend money on behalf of each other, a complex network of
 
 The system calculates the net balance of each participant and directly matches debtors with creditors, eliminating unnecessary intermediate payments.
 
----
+----
 
 # Problem Statement
 
